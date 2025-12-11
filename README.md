@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+This guy literally dont know anything about computer.
+He'd be happy if u could help him.
 <!--
 **victorxsy/victorxsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
