@@ -1,5 +1,5 @@
 ## Hi there 👋
-This guy literally dont know anything about computer.
+HKU CS year1.
 He'd be happy if u could help him.
 <!--
 **victorxsy/victorxsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
