@@ -1,5 +1,5 @@
 ## Hi there 👋
-HKU CS year1.
+HKU AI & Data Science year2.
 <!--
 **victorxsy/victorxsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
